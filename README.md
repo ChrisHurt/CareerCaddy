@@ -52,8 +52,53 @@ Value propositions:
 
 ## Roadmap
 
-### Sprint 1
-Wireframe User Experiences - Make 
+### Sprint 1 -- Completed 16/10/19
+Wireframe Core User Experiences
+
+User navigation
+- Jobs
+- Interview Questions
+- Snippets*
+  - Add/View Snippets
+  - Cover Letter Preparation
+- Logout
+
+User Data
+- First Name, Last Name
+- Alias**
+- Email
+- Password
+- Goals
+  - 10 Applications / week
+  - (Optional) 20 LinkedIn Connections / week
+  - (Optional) 1 Meetup / month
+- Cohort
+- Career Advisor(s)
+
+Job Data
+- Application Stage
+- Title
+- Company
+- Job Description
+- Test Supplied / Underway
+- Screening Question & Answer
+- Questions for Interviewer
+- Interview Questions
+  - Answer Quality (Positive/Negative/Unsure)
+  - Given Answer
+
+Interview Questions
+- Company
+- Phrasing Variations & Paired Answers
+- Best Question & Answer example
+
+Snippet Data
+- Value Proposition
+- Explanations***
+
+*Snippets are value propositions paired an explanation of how you demonstrate this value proposition. For example: "React: 3 Years of building SPA's".
+**This is important for privacy reasons.
+***Multiple explanations may be given for how you meet a value proposition.
 
 ### Sprint 2
 MongoDB Database
