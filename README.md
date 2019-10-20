@@ -40,7 +40,6 @@ Value propositions:
 * [Jest](https://jestjs.io/)
 * [Axios](https://github.com/axios/axios)
 * [Cypress](https://www.cypress.io/)
-* [GoogleCloud](https://cloud.google.com/)
 * [Passport](http://www.passportjs.org/)
 * [bCrypt](https://www.npmjs.com/package/bcrypt)
 
